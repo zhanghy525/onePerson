@@ -1,0 +1,22 @@
+html {
+  font-size: 62.5%;
+  /* from amazeui */
+}
+
+body {
+  font-size: 1.6rem;
+  padding-top: 6rem;
+}
+
+.container {
+  background-color: #eee;
+  border-radius: 0.6rem;
+}
+
+h1 {
+  padding-top: 3rem;
+}
+
+h4 {
+  padding-top: 1rem;
+}

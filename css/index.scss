@@ -1,0 +1,25 @@
+$container-bg-color: #eee;
+$header: 6rem;
+$container-radius: 0.6rem;
+
+html {
+	font-size: 62.5%;/* from amazeui */
+}
+
+body {
+	font-size:1.6rem;
+	padding-top: $header;
+}
+
+.container {
+	background-color: $container-bg-color;
+	border-radius: $container-radius;
+}
+
+h1 {
+	padding-top: 3rem;
+}
+
+h4 {
+	padding-top: 1rem;
+}
